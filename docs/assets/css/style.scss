@@ -1,11 +1,7 @@
 @import "{{ site.theme }}";
 
-footer {
-  display: none !important;
-}
-
-#downloads {display:none;}
-
-.btn {
-  display: none !important;
+#downloads .btn {
+  display: none;
+  text-align: center;
+  margin: 0;
 }
