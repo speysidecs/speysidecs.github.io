@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD Challenge 1: Quidditch  
 
 There are two ways to score during a game of Quidditch. Firstly, the Chasers can score a goal by getting possession of the Quaffle, then entering the opposition's scoring area andthrowing it successfully through one of the three hoops. This gives the team 10 points.

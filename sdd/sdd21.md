@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD 2.1 - Fixed Loops  
 
 We can use a fixed loop to loop lines of code for a *fixed* amount of times, in other words, code will be repeated as many times as we need it to. 

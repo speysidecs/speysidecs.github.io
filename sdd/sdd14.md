@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD 1.4 String Concatenation
 ## Recap
 A reminder - programs store data within *variables* so that it can be referenced and modified later. We don't need to know the value that is stored in a variable to write a program with it, we can use the `input()` command to get that value later.

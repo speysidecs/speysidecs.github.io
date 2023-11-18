@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD 1.9 Complex Conditions (and, or, not)
 
 

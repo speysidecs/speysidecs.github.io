@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD 1.3 Maths Operations Using Variables
 We know how to store data from users inside variables (input) and we know how to display those values using the the `print()` function (output). This is not much use - unless we start doing something with the data and changing it in some way. 
 

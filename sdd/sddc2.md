@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD Challenge 2: Code Breaker 
 The computer generates a 4 digit code
 The user types in a 4 digit code, one digit at a time which is their guess.

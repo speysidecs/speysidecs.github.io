@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD 2.1 - Conditional Loops with Complex Conditions
 
 We can use a conditional loop to loop lines of code for a *unknown* amount of times until a condition is or is not met. It's a bit like combining an `if` and a `for`. 

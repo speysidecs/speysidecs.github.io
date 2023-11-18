@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD 1.5 Basic IF statements
 
 ## Learning Intentions

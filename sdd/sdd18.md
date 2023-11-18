@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD 1.8 if / elif / else challenge
 
 # Learning Intentions

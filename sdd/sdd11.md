@@ -1,4 +1,3 @@
-[<- Return Home](https://speysidecs.github.io/)
 # SDD 1.1 Basic Variable Assignment
 In computer programming we use _variables_ to store data. You can think of a variable like a box with a label on it, which stores a value inside. We can use this variable in place of a known value in our code. 
 

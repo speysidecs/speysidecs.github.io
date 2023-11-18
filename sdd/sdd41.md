@@ -1,4 +1,3 @@
-[<- Return Home](/index.md)
 # SDD 4.1 Pre-Defined Function - round()
 # Pre-Defined Functions
 
