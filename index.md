@@ -5,7 +5,7 @@ This page was created when repl.it discontinued teams and its purpose is to be a
 ---
 # Table of Contents
 # Software Design and Development
-[Basics](index.md#sdd-1.1---1.4:-python-basics)
+[Basics](index.md#python-basics)
 [Selection (if)]
 [Iteration (loops)]
 
@@ -14,7 +14,7 @@ This page was created when repl.it discontinued teams and its purpose is to be a
 
 The following Python course pages are linked below. Associated Python files can be found in the GitHub repo.
 
-## SDD 1.1 - 1.4: Python Basics
+## Python Basics
 
 ### SDD 1.1 - Basic Variable Assignment.
 Task Instructions: [click here](/sdd/sdd11.md)
