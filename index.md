@@ -1,4 +1,5 @@
 # Speyside High School National 5 Computing Science Course
+![Image Test](/assets/image-test.png)
 
 Welcome to the GitHub page for the National 5 Computing Science course at Speyside High School. You are welcome to take a copy of this course and associated Python and SQL files. This page was created when repl.it discontinued teams and its purpose is to be an open course book for Scottish students studying National 5 Computing.
 
