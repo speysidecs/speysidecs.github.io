@@ -1,30 +1,19 @@
-You can [click here](/page2.md) to move on.
-# SDD 1.2 Input & Output
-Computer programs take data in from their users (known as input).
-Computer programs then display results to their users (known as output).
+# Speyside High School National 5 Computing Science Course
+Welcome to the GitHub page for the National 5 Computing Science course at Speyside High School. You are welcome to take a copy of this course and associated Python and SQL files. 
+
+This page was created when repl.it discontinued teams and its purpose is to be an open course book for Scottish students studying National 5 Computing.
 
 ---
-## Learning Intentions
-  1. Getting user input into a program and storing it
-  2. Displaying an output to the user
----
-## Success Criteria
-1. I have used the `input()` function to store user input in a variable
-2. I have used the `input()` function to store user input of different types
-3. I have used the `print()` function to to display an output to the user
----
-# Examples
+# Software Design and Development
 
-Input and output are two important building blocks in computer programming and all of your programs will use these functions. 
+The following Python course pages are linked below. Associated Python files can be found in the GitHub repo.
 
-## Getting user input
+## Section SDD 1: Python Basics
 
-In order to get user input we need to use the `input()` function.
-
-The `input()` function is used to ask the user to type in a value which will be stored as a variable as part of a variable assignment.
-
-Inside the brackets of the `input()` function, you can type a hint, or prompt for the user, telling them what to do. 
-
+### SDD 1.1 - Basic Variable Assignment.
+Task Instructions: [click here](/sdd/sdd11.md)
+GitHub: 
+Repl:
 
 ```python
 nameOfDog = input("Enter the name of the dog:")
