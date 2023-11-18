@@ -1,3 +1,4 @@
+[<- Return Home](/index.md)
 # SDD 5.3 Standard Algorithms - Running total within a loop
 
 ### Learning Intentions

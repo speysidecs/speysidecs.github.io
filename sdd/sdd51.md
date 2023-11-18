@@ -1,3 +1,4 @@
+[<- Return Home](/index.md)
 # SDD 5.1 Standard Algorithms - Input Validation
 
 ### Learning Intentions

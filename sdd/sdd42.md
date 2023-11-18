@@ -1,3 +1,4 @@
+[<- Return Home](/index.md)
 # SDD 4.2 Pre-Defined Functions - len()
 # Pre-Defined Functions
 

@@ -1,3 +1,4 @@
+[<- Return Home](/index.md)
 # SDD 4.3 Pre-Defined Functions: Random Library
 
 Sometimes the pre-defined functions we require are built into Python like `len()` and `round()`. Sometimes, however, we need to make use of additional functions from outside Pythons own library (collection) of function. 
