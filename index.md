@@ -8,6 +8,10 @@ Welcome to the GitHub page for the National 5 Computing Science course at Speysi
 * [Basics](index.md#python-basics)
 * [Selection](index.md#selection-using-if)
 * [Iteration](index.md#iteration-using-loops)
+* [Arrays](index.md#arrays)
+* [Pre-defined Functions](index.md#pre-defined-functions)
+* [Standard Algorithms](index.md#standard-algorithms)
+* [Challenges and Practice Courseworks](index.md#sdd-challenges)
 
 ---
 # Software Design and Development (SDD)
@@ -15,13 +19,6 @@ Welcome to the GitHub page for the National 5 Computing Science course at Speysi
 The following Python course pages are linked below. Associated Python files can be found in the GitHub repo.
 
 ## Python Basics
-
-### SDD 1.1 - Basic Variable Assignment.
-Task Instructions: [click here](/sdd/sdd11.md)
-
-GitHub: 
-
-Repl:
 
 ### SDD 1.1 - Basic Variable Assignment.
 Task Instructions: [click here](/sdd/sdd11.md)
@@ -98,6 +95,110 @@ Repl:
 ## Iteration using Loops
 
 ### SDD 2.1 - If/elif/else challenge.
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 2.2 - Conditional Loops (Basic Conditions).
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 2.3 - Conditional Loops (Complex Conditions.
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+--- 
+# Arrays
+
+### SDD 3.1 - Arrays - intro
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 3.2 - Arrays - Creating empty arrays
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+---
+# Pre Defined Functions
+
+### SDD 4.1 - Pre-Defined Function: round()
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 4.2 - Pre-Defined Function: len()
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 4.3 - Pre-Defined Function: randrange()
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+---
+# Standard Algorithms
+
+### SDD 5.1 - Input Validation Algorithm
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 5.2 - Traversing an array Algorithm
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 5.3 - Running total in a loop Algorithm
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+---
+
+# SDD Challenges
+
+### SDD Challenge 1: Quidditch
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD Challenge 2: Codebreaker
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD Challenge 3: Coursework Practiced 1
 Task Instructions: [click here](/sdd/sdd11.md)
 
 GitHub: 
