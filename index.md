@@ -1,13 +1,13 @@
 # Speyside High School National 5 Computing Science Course
-Welcome to the GitHub page for the National 5 Computing Science course at Speyside High School. You are welcome to take a copy of this course and associated Python and SQL files. 
 
-This page was created when repl.it discontinued teams and its purpose is to be an open course book for Scottish students studying National 5 Computing.
+Welcome to the GitHub page for the National 5 Computing Science course at Speyside High School. You are welcome to take a copy of this course and associated Python and SQL files. This page was created when repl.it discontinued teams and its purpose is to be an open course book for Scottish students studying National 5 Computing.
+
 ---
 # Table of Contents
 # Software Design and Development
 * [Basics](index.md#python-basics)
-* [Selection](index.md#selection-using-"if")
-* [Iteration(loops)
+* [Selection](index.md#selection-using-if)
+* [Iteration](index.md#iteration-using-loops)
 
 ---
 # Software Design and Development (SDD)
@@ -57,7 +57,7 @@ Repl:
 
 ---
 
-## Selection using "if"
+## Selection using if
 
 ### SDD 1.5 - Basic if statements.
 Task Instructions: [click here](/sdd/sdd11.md)
@@ -95,7 +95,7 @@ GitHub:
 Repl:
 
 ---
-## Iteration (loops)
+## Iteration using Loops
 
 ### SDD 2.1 - If/elif/else challenge.
 Task Instructions: [click here](/sdd/sdd11.md)
