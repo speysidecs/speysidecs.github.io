@@ -6,10 +6,11 @@ Computer programs then display results to their users (known as output).
 ## Learning Intentions
   1. Getting user input into a program and storing it
   2. Displaying an output to the user
+---
 ## Success Criteria
 1. I have used the `input()` function to store user input in a variable
 2. I have used the `input()` function to store user input of different types
-3.  I have used the `print()` function to to display an output to the user
+3. I have used the `print()` function to to display an output to the user
 ---
 # Examples
 
