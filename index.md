@@ -5,9 +5,9 @@ This page was created when repl.it discontinued teams and its purpose is to be a
 ---
 # Table of Contents
 # Software Design and Development
-[Basics](index.md#python-basics)
-[Selection (if)]
-[Iteration (loops)]
+* [Basics](index.md#python-basics)
+* [Selection](index.md#selection-using-if)
+* [Iteration(loops)
 
 ---
 # Software Design and Development (SDD)
@@ -57,7 +57,7 @@ Repl:
 
 ---
 
-## SDD 1.5 - 1.9: Selection using "if"
+## Selection using "if"
 
 ### SDD 1.5 - Basic if statements.
 Task Instructions: [click here](/sdd/sdd11.md)
