@@ -2,6 +2,12 @@
 Welcome to the GitHub page for the National 5 Computing Science course at Speyside High School. You are welcome to take a copy of this course and associated Python and SQL files. 
 
 This page was created when repl.it discontinued teams and its purpose is to be an open course book for Scottish students studying National 5 Computing.
+---
+# Table of Contents
+# Software Design and Development
+[Basics](index.md#sdd-1.1---1.4:-python-basics)
+[Selection (if)]
+[Iteration (loops)]
 
 ---
 # Software Design and Development (SDD)
