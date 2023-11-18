@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="docs/assets/css/style.scss">
-
 # Speyside High School 
 ## National 5 Computing Science Course
 
