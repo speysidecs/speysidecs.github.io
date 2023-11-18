@@ -3,3 +3,4 @@ title: Speyside High National 5 Computing
 markdown: GFM
 github:
   is_project_page: false
+include: ['_layouts', '_posts', '_config.yml', 'style.scss']
