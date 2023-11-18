@@ -6,7 +6,7 @@ This page was created when repl.it discontinued teams and its purpose is to be a
 # Table of Contents
 # Software Design and Development
 * [Basics](index.md#python-basics)
-* [Selection](index.md#selection-using-if)
+* [Selection](index.md#selection-using-"if")
 * [Iteration(loops)
 
 ---
@@ -74,6 +74,30 @@ GitHub:
 Repl:
 
 ### SDD 1.7 - If and elif (elseif).
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 1.8 - If/elif/else challenge.
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+### SDD 1.9 - Complex conditions.
+Task Instructions: [click here](/sdd/sdd11.md)
+
+GitHub: 
+
+Repl:
+
+---
+## Iteration (loops)
+
+### SDD 2.1 - If/elif/else challenge.
 Task Instructions: [click here](/sdd/sdd11.md)
 
 GitHub: 
