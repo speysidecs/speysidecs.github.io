@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: Speyside High National 5 Computing
 markdown: GFM
+github:
+  is_project_page: false
