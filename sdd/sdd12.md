@@ -1,3 +1,4 @@
+[<- Return Home](https://speysidecs.github.io/)
 # SDD 1.2 Input & Output
 * Computer programs take data in from their users (known as input).
 * Computer programs then display results to their users (known as output).

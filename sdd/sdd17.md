@@ -1,3 +1,4 @@
+[<- Return Home](https://speysidecs.github.io/)
 # SDD 1.7 If and elif (else if) 
 
 Our first condition in our program must start with `if`, but we can have as many conditions as we want underneath the first condition using `elif` which stands for *else if*. An `elif` is only run when the condition before it is `False` - it is like how an `else` only happens when the `if` condition is `False`.

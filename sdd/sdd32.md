@@ -1,3 +1,4 @@
+[<- Return Home](https://speysidecs.github.io/)
 # SDD 3.2 - Arrays - Recap
 
 An array is a *data structure* which is a type of *variable* which holds more than one value at a time. This is really useful when we come to apply algorithms. 

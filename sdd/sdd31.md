@@ -1,3 +1,4 @@
+[<- Return Home](https://speysidecs.github.io/)
 # SDD 3.1 - Arrays - Intro
 
 A variable can only store one item of data at a time. When working with a large amount of data, that would mean we would need to create a separate variable for each piece of data. 

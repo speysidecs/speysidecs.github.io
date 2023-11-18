@@ -2,7 +2,7 @@
 import os
 
 folder_path = r"C:\Users\mdcmc\Desktop\GitHub\speysidecs.github.io\sdd"
-line_to_add = "[<- Return Home](/index.md)"
+line_to_add = "[<- Return Home](https://speysidecs.github.io/)"
 
 # Loop through all files in the folder
 for filename in os.listdir(folder_path):
