@@ -16,13 +16,13 @@ Welcome to the GitHub page for the National 5 Computing Science course at Speysi
 * [Challenges and Practice Courseworks](index.md#sdd-challenges)
 
 # Database Design and Development
-* [Basics](index.md#python-basics)
-* [Selection](index.md#selection-using-if)
-* [Iteration](index.md#iteration-using-loops)
-* [Arrays](index.md#arrays)
-* [Pre-defined Functions](index.md#pre-defined-functions)
-* [Standard Algorithms](index.md#standard-algorithms)
-* [Challenges and Practice Courseworks](index.md#sdd-challenges)
+* [SELECT Queries](index.md#select-queries)
+* [INSERT Queries](index.md#insert-queries)
+* [UPDATE QUeries](index.md#update-queries)
+* [DELETE Queries](index.md#delete-queries)
+* [Keys and Equijoins](index.md#keys-and-equijoins)
+* [Validation](index.md#validation)
+* [Challenges and Practice Courseworks](index.md#ddd-challenges)
 
 ---
 # Software Design and Development (SDD)
@@ -215,3 +215,117 @@ Task Instructions: [click here](/sdd/sddc3.md)
 GitHub: 
 
 Repl:
+
+---
+
+# Database Design and Development (DDD)
+
+The following SQLite course pages are linked below. Associated Repl files are linked below.
+
+## SELECT Queries
+
+### DDD 1.1 - SELECT Queries.
+Task Instructions: [click here](/ddd/ddd11.md) 
+
+Repl:
+
+### DDD 1.2 - SELECT using WHERE.
+Task Instructions: [click here](/ddd/ddd12.md) 
+
+Repl:
+
+### DDD 1.3 - SELECT using ORDER BY.
+Task Instructions: [click here](/ddd/ddd13.md) 
+
+Repl:
+
+---
+
+## INSERT Queries
+
+### DDD 2.1 - INSERT Queries.
+Task Instructions: [click here](/ddd/ddd21.md) 
+
+Repl:
+
+### DDD 2.2 - Persistent Databases.
+Task Instructions: [click here](/ddd/ddd22.md) 
+
+Repl:
+
+### DDD 2.3 - INSERT multiple records.
+Task Instructions: [click here](/ddd/ddd23.md) 
+
+Repl:
+
+---
+
+## UPDATE Queries
+
+### DDD 3.1 - UPDATE Queries.
+Task Instructions: [click here](/ddd/ddd31.md) 
+
+Repl:
+
+---
+
+## DELETE Queries
+
+### DDD 4.1 - DELETE Queries.
+Task Instructions: [click here](/ddd/ddd41.md) 
+
+Repl:
+
+---
+
+## Keys and Equijoins
+
+### DDD 5.1 - Primary Keys.
+Task Instructions: [click here](/ddd/ddd51.md) 
+
+Repl:
+
+### DDD 5.2 - Primary Keys - Example Values.
+Task Instructions: [click here](/ddd/ddd52.md) 
+
+Repl:
+
+### DDD 5.3 - Equi-joins and Foreign Keys.
+Task Instructions: [click here](/ddd/ddd51.md) 
+
+Repl:
+
+---
+
+## Validation
+
+### DDD 6.1 - Validation.
+Task Instructions: [click here](/ddd/ddd61.md) 
+
+Repl:
+
+---
+
+## DDD Challenges
+
+### DDD 7.1 - Database Challenges.
+Task Instructions: [click here](/ddd/ddd71.md) 
+
+Repl:
+
+### DDD 7.2 - Practice Coursework 1.
+Task Instructions: [click here](/ddd/ddd72.md) 
+
+Repl:
+
+
+### DDD 8.1 - Practice Coursework 2. Boats.
+Task Instructions: [click here](/ddd/ddd81.md) 
+
+Repl:
+
+
+
+---
+You've reached the end of the page.
+Click [here](index.md#table-of-contents) to go back to the top.
